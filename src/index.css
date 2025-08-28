@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import "tailwindcss";
+
+body {
+	background-color: #F3EBE4;
+}
+
+@theme {
+	--font-montserrat: "Montserrat", sans-serif;
+	--font-fraunces: "Fraunces", serif;
+}
+
+.attribution { 
+	font-size: 11px; 
+	text-align: center;
+}
+
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
+
+.montserrat {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.fraunces {
+	font-family: 'Fraunces', serif;
+}
