@@ -7,7 +7,7 @@ import productDesktop from './assets/images/image-product-desktop.jpg';
 export function App() {
 	return (
 		<div class="flex justify-center items-center min-h-screen">
-			<div class="mx-auto w-9/10 bg-white rounded-xl my-5 md:flex md:rounded-lg md:h-112 md:w-172">
+			<div class="mx-auto w-84 pb-8 bg-white rounded-xl my-5 md:flex md:rounded-lg md:h-112 md:w-172">
 				<img src={productMobile} alt="Picture of perfume: Gabrielle by Chanel" class="block rounded-t-xl md:hidden mb-6" />	
 				<img src={productDesktop} alt="Picture of perfume: Gabrielle by Chanel" class="hidden md:block rounded-l-lg h-auto" />
 				<div class="px-4 md:px-8 md:pr-12 md:py-8">
