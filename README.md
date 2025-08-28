@@ -13,7 +13,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- [Solution URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/react-and-tailwind-product-preview-card-lNAC97FocG)
 - [Live Site URL](https://philipjprice.github.io/Frontend-Mentor-Product-Preview-Card/)
 
 ## My Process
