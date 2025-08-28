@@ -1,4 +1,5 @@
 # Frontend-Mentor-Product-Preview-Card
+<img width="723" height="496" alt="product-card" src="https://github.com/user-attachments/assets/7a500333-344a-43d8-9a3a-89fde53c99c2" />
 
 ## Overview
 
